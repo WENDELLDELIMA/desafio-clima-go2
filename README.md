@@ -103,5 +103,5 @@ Content-Type: application/json
 ---
 
 ## 📜 Licença
-MCCCCasdasç≈çç   
+MIT
 # desafio-clima-go2
